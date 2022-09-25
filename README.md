@@ -1,4 +1,4 @@
-# Bootstrap-T1FINAL-Y.12_3
+# Bootstrap & Figma Project
 This Website's My Final Project In Term 1 Of Y.12/3 On Business Administration
 ![1](https://user-images.githubusercontent.com/105172693/192149392-f6c3ab64-8495-4806-9e59-be48a5553119.png)
 
